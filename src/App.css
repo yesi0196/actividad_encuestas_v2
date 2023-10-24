@@ -38,7 +38,7 @@
 }
 /* Estilos para el menú de navegación */
 nav {
-  background-color: #007bff;
+  background-color: #63adfc;
   color: white;
   padding: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -60,7 +60,7 @@ a {
   transition: color 0.3s;
 }
 a:hover {
-  color: #0056b3;
+  color: #0c884e;
 }
 /* Estilos para los formularios */
 form {
